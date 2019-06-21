@@ -2,7 +2,7 @@ language: python
 python:
 - '3.4'
 - '3.5'
-script: python -m unittest
+script: python3 -m unittest
 notifications:
    slack: qualoo:VbhnnmPzC41C7fP6kgUbeP4G
 
